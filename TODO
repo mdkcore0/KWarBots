@@ -1,0 +1,35 @@
+[ ] Uncleared task
+[X] Cleared task
+[-] Partially cleared task
+ -  Just some note
+
+[X] Add colision detection system
+[X] Add color painting loading to objects
+	- Robot color depends on BotPack
+[-] Implement BotPack
+	- Must add battery, shield and weapon/ammo information on it
+[ ] Error handling
+[ ] Log system
+[-] Complete map objects/items loading
+	[X] Draw Ammo, Energy and Weapon images
+	[-] Implement Ammo, Energy and Weapon objects
+		[ ] Add more information on each one
+[X] Add type on *Objects and *Items
+[-] Handle items/objects events
+[ ] Game interface
+	[ ] Script (code) editor
+	[ ] Robot customization
+	[ ] User robots/scripts/profiles management
+[ ] Map designer
+[X] Use only one TileObject as the BattleArea background (setBackgroundBrush)
+	- This will decrease the BattleArea loading
+[-] Add robot shot
+	[X] Add many shots per time
+		- Check if all shots are correctly handled
+		[X] Add some way to limit how many shots the robot can do in a determined time space
+	[-] Add ammo count
+	[X] Add bullet collisions
+[ ] Add a radar system
+[ ] Add a timer to count elapsed time
+	- Can we use the same BattleArea timer for it?
+

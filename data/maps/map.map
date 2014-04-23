@@ -1,0 +1,50 @@
+size = 20;
+map_list =
+n n n n n n n n n n n n n n n n n n n n
+n n n n n n n n n n n n n n n n n n n n
+n n n n n n n n n n n n n n n n n n n n
+n n n n n n n n n n n n n n n n n n n n
+n n n n n n n n n w n n n n n n n n n n
+n n n n n n n n n w n n n n n n n n n n
+n n n n n n n n n w n n n n n n n n n n
+n n n n n n n n n w n n n n n n n n n n
+n n n n n n n n n w n n n n n n n n n n
+n n n n n n n n n w n n n n n n n n n n
+n n n n n n n n n w n n n n n n n n n n
+n n n n n n n n n w n n n n n n n n n n
+n n n n n n n n n n n n n n n n n n n n
+n n n n n n n n n n n n n n n n n n n n
+n n n n n n n n n n n n n n n n n n n n
+n n n n n n n n n s n n n n n n n n n n
+n n n n n n n n n n n n n n n n n n n n
+n n n n n n n n n n n n n n n n n n n n
+n n n n n n n n n n n n n n n n n n n n
+n n n n n n n n n n n n n n n n n n n n
+;
+
+name = "Test Map";
+description = "Map description. This is a simple map for tests.";
+
+enemies = 0;
+
+ammo_texture = ammo;
+ammo_value = 10;
+
+energy_texture = energy;
+energy_value = 25;
+
+weapon_texture = weapon;
+weapon_value = 5;
+
+block_texture = block01;
+block_color = #0080ff;
+
+path_texture = tile01;
+path_color = #000000;
+path_alt_color = #808080;
+
+wall_texture = wall01;
+wall_color = #800000;
+
+water_texture = water01;
+

@@ -1,0 +1,10 @@
+name = "Tank-0";
+description= "Tank description. This is the default botpack.";
+
+image_file = tank-0;
+
+body_color = #800000;
+bullet_color = #c6ff00;
+weapon_color = #00ff00;
+propulsion_color = #008000;
+
